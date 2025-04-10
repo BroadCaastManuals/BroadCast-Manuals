@@ -189,13 +189,6 @@
     "contentPreview": "pdf preview text"
   },
   {
-    "title": "42875220M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4287/42875220M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
     "title": "44706370M",
     "url": "https://www.sony.com/electronics/support/res/manuals/4470/f83878d1abe7088d55cec0fbcede552b/44706370M.pdf",
     "manufacturer": "Sony",
@@ -212,6 +205,13 @@
   {
     "title": "42875240M",
     "url": "https://www.sony.com/electronics/support/res/manuals/4287/8cd806f5d16eadec76f1f1f992c1e506/42875240M.pdf",
+    "manufacturer": "Sony",
+    "type": "Unknown",
+    "contentPreview": "pdf preview text"
+  },
+  {
+    "title": "42875220M",
+    "url": "https://www.sony.com/electronics/support/res/manuals/4287/42875220M.pdf",
     "manufacturer": "Sony",
     "type": "Unknown",
     "contentPreview": "pdf preview text"
@@ -322,184 +322,16 @@
     "contentPreview": "pdf preview text"
   },
   {
-    "title": "50310861M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/5031/a79518bcdf2341427a14fd3b8ab29faa/50310861M.pdf",
-    "manufacturer": "Sony",
+    "title": "Acid Ac Z50 Ultrachromehr(5000Dr 200)",
+    "url": "https://documentation.rossvideo.com/files/Manuals/Cameras/Acid/ACID-AC-Z50-UltraChromeHR(5000DR-200).pdf",
+    "manufacturer": "Ross",
     "type": "Unknown",
     "contentPreview": "pdf preview text"
   },
   {
-    "title": "50297170M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/5029/b3c0d0603aa5a9d0bd9f7652c3b50879/50297170M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "50340980M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/5034/ce52a044dbc1e2fa9495e0ec01c11bba/50340980M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "45934930M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4593/2e2d9b217075676808379b299ded62cf/45934930M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "47327270M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4732/4768ef0654a5b23b27c7c0fb7f543491/47327270M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "50135021M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/5013/ac0fcd23e79e1fe9ad1e3707c87879a1/50135021M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "45934930M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4593/2e2d9b217075676808379b299ded62cf/45934930M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "47327270M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4732/4768ef0654a5b23b27c7c0fb7f543491/47327270M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "50135021M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/5013/ac0fcd23e79e1fe9ad1e3707c87879a1/50135021M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "45673690M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4567/1c69a0dc97b11fb0372df981503c3291/45673690M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "42875220M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4287/42875220M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "44706370M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4470/f83878d1abe7088d55cec0fbcede552b/44706370M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "44706350M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4470/e7ded27c32b417f6ef041978d06036d6/44706350M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "42875240M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4287/8cd806f5d16eadec76f1f1f992c1e506/42875240M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "44706360M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4470/a1cea413b13bb4fdfa9d55aae0e3445e/44706360M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "42875230M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4287/c646c1f73fda9e223f51a87b483bbbfc/42875230M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "44706400M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4470/3275bd964bf6e586babd3d41696c37df/44706400M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "44706420M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4470/e53b9b69ba9f1345725fa7a1d4cfb01e/44706420M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "42875290M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4287/fc3d69641b1f5b2cf567082b9247b601/42875290M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "42875270M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4287/bdc67f3f9fe562a73d13d53d08ab4f3b/42875270M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "44706410M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4470/6f1f785aaa0f5e04c3fad248429a5b01/44706410M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "42875280M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4287/8a5ba86cf74c199bd29e69654d34fb6b/42875280M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "41895110M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4189/54bb0aaf0bc3d23b870a0c1cf776d6ea/41895110M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "45934930M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4593/2e2d9b217075676808379b299ded62cf/45934930M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "47327270M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/4732/4768ef0654a5b23b27c7c0fb7f543491/47327270M.pdf",
-    "manufacturer": "Sony",
-    "type": "Unknown",
-    "contentPreview": "pdf preview text"
-  },
-  {
-    "title": "50135021M",
-    "url": "https://www.sony.com/electronics/support/res/manuals/5013/ac0fcd23e79e1fe9ad1e3707c87879a1/50135021M.pdf",
-    "manufacturer": "Sony",
+    "title": "Acid Ac H200 Ultrachromehr(5000Dr 100)",
+    "url": "https://documentation.rossvideo.com/files/Manuals/Cameras/Acid/ACID-AC-H200-UltraChromeHR(5000DR-100).pdf",
+    "manufacturer": "Ross",
     "type": "Unknown",
     "contentPreview": "pdf preview text"
   }
